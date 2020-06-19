@@ -7,7 +7,7 @@ Assistant Professor,
 
 Department of Aerospace Engneering, Amrita Vishwa Vidyapeetham.
 
-Newton-Raphson is an optimization method to optimize single variable functions.
+Bisection is an optimization method to optimize single variable functions.
 
 A detailed explanation about the method can be found in the text book:
 ###### *Deb Kalyanmoy, Optimization for Engineering Design, Algorithms and Examples. (2012)*
